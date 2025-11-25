@@ -1,6 +1,6 @@
 {
   "name": "codexless",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Let ChatGPT use Codex's local toolbox, then call Codex only when needed.",
   "main": "src/index.js",
   "scripts": {
